@@ -163,6 +163,4 @@ public abstract class MiftahAppoDealLib {
     public abstract void rewardClosed(boolean finished);
     public abstract void rewardExpired();
     // -----------------  reward ads callback functions block end  ------------------ //
-
-
 }
