@@ -1,16 +1,12 @@
 package miftah.nzfr.appodeal;
 
 import android.app.Activity;
-import android.content.Context;
-import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
-
 import com.appodeal.ads.Appodeal;
 import com.appodeal.ads.BannerCallbacks;
 import com.appodeal.ads.InterstitialCallbacks;
 import com.appodeal.ads.RewardedVideoCallbacks;
 
-import miftah.nzfr.appodeal.Classes.App;
 
 public abstract class MiftahAppoDealLib {
     private Activity activity;
